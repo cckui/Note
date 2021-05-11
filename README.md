@@ -50,7 +50,3 @@ C:\Program Files\Go
 ```bash
 %USERPROFILE%\go
 ```
-
-### Cloud drive
-
-[Cloud](https://gd.ggfly.ml/)
